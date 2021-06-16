@@ -1,0 +1,16 @@
+alias _gs="git status"
+
+alias _gco="git checkout"
+alias _gcom="git checkout main"
+alias _gcod="git checkout develop"
+
+alias _grh="git reset --hard"
+alias _grs="git reset --soft"
+
+alias _gl="git log"
+alias _glg="_gl --graph --all --oneline"
+alias _gloten="_glg -n10"
+
+alias _gpo="git push origin"
+alias _gpom="_gpo main"
+alias _gpod="_gpo develop"
